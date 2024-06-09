@@ -15,6 +15,7 @@ This is a clone of the Myntra website, focusing on the Men's categories. The pro
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Setup Instructions
 
@@ -67,5 +68,7 @@ Push to the branch (git push origin feature/your-feature-name).
 Create a new Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Happy Coding!
 
 
